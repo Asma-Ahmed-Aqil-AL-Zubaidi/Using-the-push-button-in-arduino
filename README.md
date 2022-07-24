@@ -13,8 +13,9 @@ Well, what is the use of a relay that provides the operating system for the push
 Without using the Relay
 
 ![IMG_1557](https://user-images.githubusercontent.com/108140215/180636238-68161617-d8bf-4209-aff0-dbdd61f4d6c5.JPG)
-![IMG_1563](https://user-images.githubusercontent.com/108140215/180636243-bdb2e9e5-f2cc-47b8-958d-dfd4bfab1dab.PNG)
+
 
 With using the Relay
 ![IMG_1563](https://user-images.githubusercontent.com/108140215/180636269-0d081d2c-59a1-4d0c-a937-0750bf9461d1.jpg)
+Code
 ![IMG_1562](https://user-images.githubusercontent.com/108140215/180636331-35d1cf66-ec9e-4674-b89b-aa6299008a5d.jpg)
